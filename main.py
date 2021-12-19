@@ -41,4 +41,4 @@ async def eatsch(ctx):
     res= random.choice(jdata['restaurant_school'])
     await ctx.send(res)
 
-bot.run(jdata["token"])
+bot.run("OTIwMzM3NDgzMzgyNzg0MDcy.Ybi5Ew.t_qQDHqOVg0mnD0AJmfdsr3nqeE")
