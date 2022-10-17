@@ -40,7 +40,7 @@ async def on_ready():
 
 async def main():
     await preload()
-    await bot.start("MTAyMDc0ODA1NzQ0NjQ2OTY3Mg.G9ConA.7F6bBzX1Q4XEqWAksR7CToHuojUMwi9j3yg7Cc")
+    await bot.start("")
 
 
 asyncio.run(main())
